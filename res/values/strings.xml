@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AggregateMusicSearch</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="search">Search</string>
+    <string name="default_search_hint">Enter an artist&#8230;</string>
+
+</resources>
